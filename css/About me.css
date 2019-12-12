@@ -1,0 +1,35 @@
+body {
+	padding-left: 438px;
+	padding-right:438px;
+}
+
+table, th, td{
+	border:1px white; 
+	border-collapse: collapse;
+	padding: 3pt;
+}
+
+th{
+	background-color: #514579;
+	color: white;
+	height: 35pt;
+}
+
+td{
+	background-color: #576586;
+	color: white;
+	height: 25pt;
+}
+
+h1{
+	color: #ffffff;
+	margin: 105px 0 0 0;
+}
+
+p{
+	color: #c0c0be;
+}
+
+h3{
+	color: #ffffff;
+}
