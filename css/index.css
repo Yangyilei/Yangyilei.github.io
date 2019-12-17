@@ -45,3 +45,29 @@ p {
 	font-family: 'Merriweather', serif;
 }
 
+img.contact_me{
+	margin-top: 2px;
+	margin-right: 2px;
+}
+
+img.works{
+	margin-right: 2px;
+}
+
+img.about_me{
+	margin-right: 2px;
+	margin-bottom: 2px;
+}
+
+/*img.background-index{
+	vertical-align: middle
+}*/
+
+div.footer{
+	position:absolute;
+	bottom:15px;
+	width:95%;
+	text-align: center;
+	color:#c0c0be;
+	font-size: 8px;
+}

@@ -1,6 +1,6 @@
 body{
 	padding-left: 438px;
-	padding-right:265px;
+	padding-right:438px;
 }
 
 h1{
@@ -18,6 +18,46 @@ h2{
 
 p{
 	color: #c0c0be;
+}
 
+div.contact_contener{
+	margin-left: 20px;
+}
+
+a.Style{
+	font-family: serif;
+	font-weight: bolder;
+	color: #c0c0be;
+}
+
+a.Style2{
+	font-family: sans-serif;
+}
+
+a.Style2:link{
+	color: #c0c0be;
+	font-weight: normal;
+	text-decoration-line: none;
+}
+
+a.Style2:hover{
+	color: #c0c0be;
+	font-weight: bold;
+	text-decoration-line: underline;
+}
+
+a.Style2:visited{
+	color: #c0c0be;
+	font-weight: normal;
+	text-decoration-line: none;
+}
+
+div.footer{
+	position:absolute;
+	bottom:15px;
+	width:53.5%;
+	text-align: center;
+	color:#c0c0be;
+	font-size: 8px;
 }
 
